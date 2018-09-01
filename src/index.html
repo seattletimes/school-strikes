@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>
+    <%= json.project.title %>
+  </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- Safari, you're the worst -->
+  <meta name='format-detection' content='telephone=no'>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <%= t.include("partials/_head.html") %>
+</head>
+
+<body>
+
+  <responsive-child class="map-container">
+    <div class="outmost">
+      <section class="chatter">
+        <h1>The state of teacher contract negotiations</h1>
+        <p>Teacher contracts in virtually every school district in Washington state re-opened for negotiation this year. While a handful of districts and their teachers unions struck deals early in the summer to provide raises for educators, teacher walkouts have delayed the first day of school or threaten to do so in about two dozen districts, including Seattle.</p>
+      </section>
+
+      <div class="aspect-ratio-outer">
+        <div class="aspect-ratio-inner">
+
+          <leaflet-map zoom=9>
+            <tile-layer layer="cartoPositron"></tile-layer>
+
+          </leaflet-map>
+
+        </div>
+        <aside class="legend">
+          <h1>Strike status</h1>
+          <ul class="scale">
+            <li>
+              <span class="block" style="background-color: #b10026"></span> Currently on strike</li>
+            <li>
+              <span class="block" style="background-color: #fc4e2a"></span> Strike authorized</li>
+            <li>
+              <span class="block" style="background-color: #feb24c"></span> Strike ended with deal</li>
+            <li>
+              <span class="block" style="background-color: #ffeda0"></span> Deal reached without strike</li>
+          </ul>
+        </aside>
+      </div>
+
+
+      <div class="source">*As of Aug. 31 at 7 p.m. <br> Source: Seattle Times Reporting
+        <span class="credit">Emily M. Eng / THE SEATTLE TIMES</div>
+    </div>
+  </responsive-child>
+
+    <script>
+      window.allData = <%= JSON.stringify(json.schoolStrike_Sheet1) %>;
+    </script>
+
+  <script src="app.js"></script>
+  <% /*= t.include("partials/_foot.html"); */ %>
+    <%= t.include("partials/_workHere.html") %>
+</body>
+
+</html>

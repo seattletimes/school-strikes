@@ -1,0 +1,18 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "jerky-synthesis"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/local/school-strikes"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "sheets": ["1fTfI9IgTQNoShJn31z0RBPsmNHmKMu66-RH8pZTyu_8"]
+}
