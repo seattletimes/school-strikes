@@ -5,46 +5,38 @@
     "Striking": "Battle Ground School District"
   },
   {
-    "Authorized": "Bethel School District",
+    "Authorized": "Camas School District",
     "undefined": 25704,
     "Striking": "Evergreen School District (Clark)"
   },
   {
-    "Authorized": "Camas School District",
+    "Authorized": "Monroe School District",
     "undefined": 1960,
     "Striking": "Hockinson School District"
   },
   {
-    "Authorized": "Monroe School District",
+    "Authorized": "Mount Pleasant School District",
     "undefined": 3062,
     "Striking": "Ridgefield School District"
   },
   {
-    "Authorized": "Mount Pleasant School District",
+    "Authorized": "Mount Vernon School District",
     "undefined": 6768,
     "Striking": "Longview School District"
   },
   {
-    "Authorized": "Mount Vernon School District",
+    "Authorized": "Puyallup School District",
     "undefined": 23744,
     "Striking": "Vancouver School District"
   },
   {
-    "Authorized": "Puyallup School District",
+    "Authorized": "Richland School District",
     "undefined": 3237,
     "Striking": "Washougal School District"
   },
   {
-    "Authorized": "Richland School District",
-    "undefined": 78082
-  },
-  {
-    "Authorized": "Seattle Public Schools",
-    "undefined": 54604
-  },
-  {
     "Authorized": "Skamania School District",
-    "undefined": 81
+    "undefined": 78082
   },
   {
     "Authorized": "Stanwood-Camano School District",
@@ -63,6 +55,6 @@
     "undefined": 6815
   },
   {
-    "undefined": 162757
+    "undefined": 88372
   }
 ]
