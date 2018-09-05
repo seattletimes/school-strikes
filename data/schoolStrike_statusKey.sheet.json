@@ -10,5 +10,9 @@
   {
     "1": 4,
     "Currently on strike": "Deal reached without strike"
+  },
+  {
+    "1": 5,
+    "Currently on strike": "under negotiations"
   }
 ]

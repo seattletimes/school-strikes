@@ -4,14 +4,17 @@
     "district": "Arlington School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "strikeVote": "August 30",
-    "doneDeal": "TBD",
+    "doneDeal": "September 3",
+    "unionVote": "September 4",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5",
+    "source": "https://asd.wednet.edu/news/arlington_education_association_reaches_tentative_"
   },
   {
     "GEOID": 5300300,
@@ -20,7 +23,7 @@
     "county": "King",
     "status": 4,
     "statusText": "Deal reached without strike",
-    "doneDeal": "TBD",
+    "doneDeal": "August 26",
     "unionVote": "August 27",
     "boardVote": "August 27",
     "oldStart": 48898,
@@ -29,6 +32,7 @@
     "oldMax": 93168,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 5",
     "source": "https://www.auburn.wednet.edu/Page/441"
   },
   {
@@ -44,7 +48,8 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5300390,
@@ -62,6 +67,7 @@
     "oldMax": 97548,
     "newMax": 111092,
     "percentChange2": 13.9,
+    "startDay": "August 30",
     "contractCost": "$23 million",
     "notes": "The full Bellevue Education Association contract reopens for the 2019-20 school year. Negotiations are set begin in January.",
     "source": "http://www.bellevueea.org/cba-documents/"
@@ -78,21 +84,24 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 6"
   },
   {
     "GEOID": 5300810,
     "district": "Camas School District",
     "countycode": 6,
     "county": "Clark",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "strikeVote": "August 27",
-    "doneDeal": "TBD",
+    "doneDeal": "September 2",
+    "unionVote": "September 3",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4"
   },
   {
     "GEOID": 5300870,
@@ -105,20 +114,25 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5301410,
     "district": "Clover Park School District",
     "countycode": 27,
     "county": "Pierce",
-    "status": 5,
-    "statusText": "Under negotiations",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "doneDeal": "TBD",
+    "unionVote": "August 27",
+    "boardVote": "August 27",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29",
+    "source": "http://www.cloverpark.k12.wa.us/dept/CommunityRelations/HomeStories/2018-19/District_CPEA_Aug2018.aspx"
   },
   {
     "GEOID": 5301980,
@@ -131,20 +145,23 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5302130,
     "district": "Dieringer School District",
     "countycode": 27,
     "county": "Pierce",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 30",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5",
+    "source": "https://www.dieringer.wednet.edu/news/what_s_new/tentative_agreement_has_been_reached"
   },
   {
     "GEOID": 5302370,
@@ -157,7 +174,8 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5302400,
@@ -175,6 +193,7 @@
     "oldMax": 101022,
     "newMax": 114272,
     "percentChange2": 13.1,
+    "startDay": "September 5",
     "notes": "\"Teachers now must work 28 years and have the additional education to reach the highest salary. Under the deal, they will get there in 14 years.\"",
     "source": "https://www.heraldnet.com/news/edmonds-teachers-reach-deal-with-district-for-big-pay-hike/"
   },
@@ -183,13 +202,15 @@
     "district": "Enumclaw School District",
     "countycode": 17,
     "county": "King",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 29",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4",
+    "source": "http://www.enumclaw.wednet.edu/calendar/NewsItem.aspx?id=1034"
   },
   {
     "GEOID": 5302670,
@@ -207,6 +228,7 @@
     "oldMax": 103500,
     "newMax": 120776,
     "percentChange2": 16.7,
+    "startDay": "September 5",
     "notes": "\"There's a provision ensuring beginning teachers receive up to two years of guidance and support from a colleague at their school.\"",
     "source": "https://t.co/e7WfNrVQEl"
   },
@@ -225,7 +247,8 @@
     "percentChange": "TBD",
     "oldMax": 84359,
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 28"
   },
   {
     "GEOID": 5302820,
@@ -243,6 +266,7 @@
     "oldMax": 91128,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 4",
     "source": "https://www.facebook.com/pg/federalwayea.org/posts/?ref=page_internal"
   },
   {
@@ -250,13 +274,14 @@
     "district": "Fife Public Schools",
     "countycode": 27,
     "county": "Pierce",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 27",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5302940,
@@ -273,6 +298,7 @@
     "oldMax": 86760,
     "newMax": 100207,
     "percentChange2": 15.5,
+    "startDay": "August 28",
     "source": "https://www.facebook.com/FPEA.WEA/posts/10156162578839965"
   },
   {
@@ -280,13 +306,16 @@
     "district": "Granite Falls School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
-    "newStart": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 22",
+    "unionVote": "August 30",
+    "newStart": 53010,
     "percentChange": "TBD",
-    "newMax": "TBD",
-    "percentChange2": "TBD"
+    "newMax": 100594,
+    "percentChange2": "TBD",
+    "startDay": "September 5",
+    "source": "https://www.facebook.com/pg/Granite-Falls-Education-Association-137641659605567/posts/"
   },
   {
     "GEOID": 5303540,
@@ -305,6 +334,7 @@
     "oldMax": 97030,
     "newMax": 111245,
     "percentChange2": 14.7,
+    "startDay": "September 5",
     "notes": "Highline Public Schools estimates it will face a net loss in revenue for 2019-20 school year. \"In 2020-21, we will see a revenue increase, but it will be minimal.'",
     "source": "https://www.highlineschools.org/about/news/news-details/~board/district-news/post/salaries-rise-for-highline-educators"
   },
@@ -313,15 +343,17 @@
     "district": "Hockinson School District",
     "countycode": 6,
     "county": "Clark",
-    "status": 1,
-    "statusText": "Currently on strike",
+    "status": 3,
+    "statusText": "Strike ended with deal",
     "strikeVote": "August 21",
     "strikeStart": "August 29",
-    "doneDeal": "TBD",
+    "doneDeal": "September 1",
+    "unionVote": "September 3",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5303720,
@@ -351,6 +383,7 @@
     "oldMax": 92676,
     "newMax": 109936,
     "percentChange2": 18.6,
+    "startDay": "September 5",
     "notes": "The contract lasts through the 2021-22 school year.",
     "source": "http://issaquahea.washingtonea.org/"
   },
@@ -369,6 +402,7 @@
     "oldMax": 87192,
     "newMax": 95734,
     "percentChange2": 9.8,
+    "startDay": "August 29",
     "source": "https://www.ksd.org/District/Departments/Employment-and-Human-Resources/Documents"
   },
   {
@@ -388,6 +422,7 @@
     "oldMax": 87575,
     "newMax": 103754,
     "percentChange2": 18.5,
+    "startDay": "August 30",
     "contractCost": "$40.1 million",
     "source": "https://www.kent.k12.wa.us/site/default.aspx?PageType=3&DomainID=1&ModuleInstanceID=1352&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=27417&PageID=1"
   },
@@ -396,13 +431,14 @@
     "district": "Lake Stevens School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 27",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5304230,
@@ -419,6 +455,7 @@
     "oldMax": 98050,
     "newMax": 112957,
     "percentChange2": 15.2,
+    "startDay": "September 4",
     "notes": "After 21 years and 25 years of experience in the classroom, Lake Washington teachers receive a $1,000 and $5,000 retention bonus, respectively",
     "source": "https://www.lwsd.org/uploaded/Website/Employment/PDFs/Lake_Washington_Education_Association_(LWEA)_Salary_Summary.pdf"
   },
@@ -427,13 +464,14 @@
     "district": "Lakewood School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 29",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5304470,
@@ -448,7 +486,8 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5304860,
@@ -457,28 +496,32 @@
     "county": "Snohomish",
     "status": 4,
     "statusText": "Deal reached without strike",
-    "doneDeal": "TBD",
+    "doneDeal": "August 31",
     "unionVote": "August 30",
     "boardVote": "September 4",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5304980,
     "district": "Mercer Island School District",
     "countycode": 17,
     "county": "King",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "September 3",
+    "unionVote": "September 4",
+    "boardVote": "September 13",
     "oldStart": 50597,
     "newStart": "TBD",
     "percentChange": "TBD",
     "oldMax": 93886,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 5",
     "source": "https://www.facebook.com/pg/Mercer-Island-Education-Association-578019622258486/posts/?ref=page_internal"
   },
   {
@@ -486,14 +529,16 @@
     "district": "Monroe School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "strikeVote": "August 31",
-    "doneDeal": "TBD",
+    "doneDeal": "September 4",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5",
+    "source": "https://www.monroe.wednet.edu/departments/human-resources/collective-bargaining/bargaining-updates"
   },
   {
     "GEOID": 5305430,
@@ -511,6 +556,7 @@
     "oldMax": 99949,
     "newMax": 112396,
     "percentChange2": 12.5,
+    "startDay": "September 5",
     "source": "http://www.mukilteoea.org/index.php/news-mainmenu-19/3-newsflash/22-bargaining-update"
   },
   {
@@ -527,6 +573,8 @@
     "oldMax": 97549,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 5",
+    "notes": "\"The Northshore School District and Northshore Education Association (NSEA) have set bargaining for mid to late September and hope to have a ratified agreement sometime soon after.\"",
     "source": "https://www.facebook.com/pg/northshoreea/posts/"
   },
   {
@@ -540,7 +588,8 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4"
   },
   {
     "GEOID": 5306570,
@@ -550,10 +599,12 @@
     "status": 4,
     "statusText": "Deal reached without strike",
     "doneDeal": "August 25",
+    "unionVote": "August 30",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "August 28",
     "source": "https://www.psd1.org/domain/1459"
   },
   {
@@ -561,21 +612,25 @@
     "district": "Peninsula School District",
     "countycode": 27,
     "county": "Pierce",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 15",
+    "unionVote": "August 24",
+    "boardVote": "August 28",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29",
+    "source": "https://www.facebook.com/pg/Peninsula-Education-Association-690601961083574/posts/?ref=page_internal"
   },
   {
     "GEOID": 5306960,
     "district": "Puyallup School District",
     "countycode": 27,
     "county": "Pierce",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 1,
+    "statusText": "Currently on strike",
     "strikeVote": "August 29",
     "doneDeal": "TBD",
     "oldStart": 46687,
@@ -583,7 +638,8 @@
     "percentChange": "TBD",
     "oldMax": 92302,
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5307230,
@@ -600,22 +656,25 @@
     "percentChange": 5.9,
     "oldMax": 96649,
     "newMax": 110398,
-    "percentChange2": 14.2
+    "percentChange2": 14.2,
+    "startDay": "August 29"
   },
   {
     "GEOID": 5307350,
     "district": "Ridgefield School District",
     "countycode": 6,
     "county": "Clark",
-    "status": 1,
-    "statusText": "Currently on strike",
+    "status": 3,
+    "statusText": "Strike ended with deal",
     "strikeVote": "August 17",
     "strikeStart": "August 29",
-    "doneDeal": "TBD",
+    "doneDeal": "September 3",
+    "unionVote": "September 3",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5304560,
@@ -629,6 +688,7 @@
     "percentChange": "TBD",
     "newMax": 106694,
     "percentChange2": "TBD",
+    "startDay": "September 4",
     "source": "http://rsd407.org/staff/bargaining/CBA/REA%20Gen%20Ed%20Salary%20Schedule%2018-19.pdf"
   },
   {
@@ -636,8 +696,8 @@
     "district": "Seattle School District",
     "countycode": 17,
     "county": "King",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "strikeVote": "August 28",
     "doneDeal": "August 31",
     "oldStart": 50604,
@@ -646,6 +706,7 @@
     "oldMax": 100763,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 5",
     "source": "https://www.seattleschools.org/cms/one.aspx?portalId=627&pageId=15568"
   },
   {
@@ -664,6 +725,7 @@
     "oldMax": 97069,
     "newMax": 120234,
     "percentChange2": 23.9,
+    "startDay": "August 29",
     "source": "https://www.facebook.com/pg/shorelineea/posts/"
   },
   {
@@ -677,20 +739,24 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5308020,
     "district": "Snohomish School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 29",
+    "unionVote": "August 29",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5",
+    "source": "https://www.facebook.com/pg/Peninsula-Education-Association-690601961083574/posts/?ref=page_internal"
   },
   {
     "GEOID": 5308040,
@@ -707,6 +773,7 @@
     "oldMax": 85478,
     "newMax": 107006,
     "percentChange2": 25.2,
+    "startDay": "August 29",
     "source": "https://www.facebook.com/pg/sveaunion/posts/"
   },
   {
@@ -725,6 +792,7 @@
     "oldMax": 87787,
     "newMax": 98756,
     "percentChange2": 12.5,
+    "startDay": "August 30",
     "notes": "\"The new agreement also provides an overall increase of 11.5% for support staff representated  by the SEA, ranging from 7% to 21.77% for the lowest paid hourly employees.\"",
     "source": "https://twitter.com/Wilsoncriscione/status/1035367761126416385/photo/1"
   },
@@ -733,14 +801,16 @@
     "district": "Stanwood-Camano School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 1,
+    "statusText": "Currently on strike",
     "strikeVote": "August 23",
     "doneDeal": "TBD",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4",
+    "source": "http://www.stanwood.wednet.edu/"
   },
   {
     "GEOID": 5308460,
@@ -753,49 +823,56 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 30"
   },
   {
     "GEOID": 5308550,
     "district": "Sultan School District",
     "countycode": 31,
     "county": "Snohomish",
-    "status": 5,
-    "statusText": "Under negotiations",
-    "doneDeal": "TBD",
+    "status": 4,
+    "statusText": "Deal reached without strike",
+    "doneDeal": "August 29",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5308610,
     "district": "Sumner School District",
     "countycode": 27,
     "county": "Pierce",
-    "status": 2,
-    "statusText": "Strike authorized",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "strikeVote": "August 27",
-    "doneDeal": "TBD",
+    "doneDeal": "September 1",
+    "unionVote": "September 4",
+    "boardVote": "September 19",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   },
   {
     "GEOID": 5308700,
     "district": "Tacoma Public Schools",
     "countycode": 27,
     "county": "Pierce",
-    "status": 5,
-    "statusText": "Under negotiations",
+    "status": 2,
+    "statusText": "Strike authorized",
     "doneDeal": "TBD",
     "oldStart": 45500,
     "newStart": "TBD",
     "percentChange": "TBD",
     "oldMax": 90928,
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 6",
+    "notes": "Will vote to authorize strike on Sept. 4 "
   },
   {
     "GEOID": 5308760,
@@ -813,6 +890,7 @@
     "oldMax": 86733,
     "newMax": 107001,
     "percentChange2": 23.4,
+    "startDay": "September 4",
     "source": "https://www.tahomasd.us/departments/human_resources/salary_schedules/"
   },
   {
@@ -830,6 +908,7 @@
     "oldMax": 85691,
     "newMax": "TBD",
     "percentChange2": "TBD",
+    "startDay": "September 5",
     "source": "https://www.facebook.com/TukwilaStaff/posts/"
   },
   {
@@ -843,37 +922,42 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4"
   },
   {
     "GEOID": 5309270,
     "district": "Vancouver Public Schools",
     "countycode": 6,
     "county": "Clark",
-    "status": 1,
-    "statusText": "Currently on strike",
+    "status": 3,
+    "statusText": "Strike ended with deal",
     "strikeVote": "August 20",
     "strikeStart": "August 29",
-    "doneDeal": "TBD",
+    "doneDeal": "September 2",
+    "unionVote": "September 3",
     "oldStart": 44661,
     "newStart": "TBD",
     "percentChange": "TBD",
     "oldMax": 83924,
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 29"
   },
   {
     "GEOID": 5309300,
     "district": "Vashon Island School District",
     "countycode": 17,
     "county": "King",
-    "status": 5,
-    "statusText": "Under negotiations",
+    "status": 4,
+    "statusText": "Deal reached without strike",
     "doneDeal": "TBD",
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 4",
+    "source": "http://www.vashonbeachcomber.com/news/vashon-teacher-salaries-will-rise-10-percent-this-fall/"
   },
   {
     "GEOID": 5309540,
@@ -888,7 +972,8 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "August 28"
   },
   {
     "GEOID": 5309780,
@@ -901,6 +986,7 @@
     "newStart": "TBD",
     "percentChange": "TBD",
     "newMax": "TBD",
-    "percentChange2": "TBD"
+    "percentChange2": "TBD",
+    "startDay": "September 5"
   }
 ]
