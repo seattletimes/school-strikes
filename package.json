@@ -8,7 +8,7 @@
     "url": "https://github.com/seattletimes/school-strikes.git"
   },
   "dependencies": {
-    "async": "^1.2.1",
+    "async": "^2.6.4",
     "aws-sdk": "^2.1.25",
     "babelify": "^6.0.2",
     "browserify": "^10.2.4",
